@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[147],{59:function(e,a,n){"use strict";n.r(a),n.d(a,"mapNamespacesResponse",(function(){return s}));const s=e=>e&&e.data?e.data.results.bindings.map(e=>({prefix:e.prefix.value,uri:e.namespace.value})):[]}}]);
